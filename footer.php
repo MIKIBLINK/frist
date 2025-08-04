@@ -1,5 +1,6 @@
 <footer class="bg-dark text-white text-center py-3 mt-5">
     <div class="container">
+        <p>This is just DEMO PROJECT NO REAL TIME !!!
         <p class="mb-0"><strong>Frontend by Seavlinh @ 2026</strong></p>
         <p class="mb-0">Backend Developer</p>
         <p class="mb-0">Email: <a href="mailto:beangchanchakriya@gmail.com"
@@ -10,3 +11,4 @@
     </div>
 
 </footer>
+
