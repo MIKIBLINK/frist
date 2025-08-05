@@ -51,7 +51,7 @@ $conn->close();
 
 <body class="bg-gray-100 flex">
     <div class="flex w-full min-h-screen">
-        <?php include './sidebar/admin_sidebar.php'; ?>
+        <?php include 'admin_sidebar.php'; ?>
 
         <main class="main-content flex-grow p-8 overflow-y-auto">
             <header class="header flex justify-between items-center mb-8">
@@ -111,5 +111,6 @@ $conn->close();
         </main>
     </div>
 </body>
+
 
 </html>
