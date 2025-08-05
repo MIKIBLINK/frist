@@ -119,7 +119,7 @@ $conn->close();
 </head>
 
 <body class="bg-gray-100 flex page-admin-orders">
-    <?php include './sidebar/admin_sidebar.php'; ?>
+    <?php include 'admin_sidebar.php'; ?>
 
     <main class="flex-grow p-8">
         <div class="flex justify-between items-center mb-8">
@@ -289,5 +289,6 @@ $conn->close();
     });
     </script>
 </body>
+
 
 </html>
